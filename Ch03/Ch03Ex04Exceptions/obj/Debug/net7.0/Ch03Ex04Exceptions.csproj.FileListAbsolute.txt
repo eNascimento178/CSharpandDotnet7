@@ -1,0 +1,15 @@
+E:\OneDrive\Documentos\Cursos\dotnet\CSharpandDotnet7\Ch03\Ch03Ex04Exceptions\bin\Debug\net7.0\Ch03Ex04Exceptions.exe
+E:\OneDrive\Documentos\Cursos\dotnet\CSharpandDotnet7\Ch03\Ch03Ex04Exceptions\bin\Debug\net7.0\Ch03Ex04Exceptions.deps.json
+E:\OneDrive\Documentos\Cursos\dotnet\CSharpandDotnet7\Ch03\Ch03Ex04Exceptions\bin\Debug\net7.0\Ch03Ex04Exceptions.runtimeconfig.json
+E:\OneDrive\Documentos\Cursos\dotnet\CSharpandDotnet7\Ch03\Ch03Ex04Exceptions\bin\Debug\net7.0\Ch03Ex04Exceptions.dll
+E:\OneDrive\Documentos\Cursos\dotnet\CSharpandDotnet7\Ch03\Ch03Ex04Exceptions\bin\Debug\net7.0\Ch03Ex04Exceptions.pdb
+E:\OneDrive\Documentos\Cursos\dotnet\CSharpandDotnet7\Ch03\Ch03Ex04Exceptions\obj\Debug\net7.0\Ch03Ex04Exceptions.csproj.AssemblyReference.cache
+E:\OneDrive\Documentos\Cursos\dotnet\CSharpandDotnet7\Ch03\Ch03Ex04Exceptions\obj\Debug\net7.0\Ch03Ex04Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+E:\OneDrive\Documentos\Cursos\dotnet\CSharpandDotnet7\Ch03\Ch03Ex04Exceptions\obj\Debug\net7.0\Ch03Ex04Exceptions.AssemblyInfoInputs.cache
+E:\OneDrive\Documentos\Cursos\dotnet\CSharpandDotnet7\Ch03\Ch03Ex04Exceptions\obj\Debug\net7.0\Ch03Ex04Exceptions.AssemblyInfo.cs
+E:\OneDrive\Documentos\Cursos\dotnet\CSharpandDotnet7\Ch03\Ch03Ex04Exceptions\obj\Debug\net7.0\Ch03Ex04Exceptions.csproj.CoreCompileInputs.cache
+E:\OneDrive\Documentos\Cursos\dotnet\CSharpandDotnet7\Ch03\Ch03Ex04Exceptions\obj\Debug\net7.0\Ch03Ex04Exceptions.dll
+E:\OneDrive\Documentos\Cursos\dotnet\CSharpandDotnet7\Ch03\Ch03Ex04Exceptions\obj\Debug\net7.0\refint\Ch03Ex04Exceptions.dll
+E:\OneDrive\Documentos\Cursos\dotnet\CSharpandDotnet7\Ch03\Ch03Ex04Exceptions\obj\Debug\net7.0\Ch03Ex04Exceptions.pdb
+E:\OneDrive\Documentos\Cursos\dotnet\CSharpandDotnet7\Ch03\Ch03Ex04Exceptions\obj\Debug\net7.0\Ch03Ex04Exceptions.genruntimeconfig.cache
+E:\OneDrive\Documentos\Cursos\dotnet\CSharpandDotnet7\Ch03\Ch03Ex04Exceptions\obj\Debug\net7.0\ref\Ch03Ex04Exceptions.dll

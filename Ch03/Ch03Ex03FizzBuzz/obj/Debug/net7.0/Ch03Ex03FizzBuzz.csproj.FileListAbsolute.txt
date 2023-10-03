@@ -1,0 +1,15 @@
+E:\OneDrive\Documentos\Cursos\dotnet\CSharpandDotnet7\Ch03\Ch03Ex03FizzBuzz\bin\Debug\net7.0\Ch03Ex03FizzBuzz.exe
+E:\OneDrive\Documentos\Cursos\dotnet\CSharpandDotnet7\Ch03\Ch03Ex03FizzBuzz\bin\Debug\net7.0\Ch03Ex03FizzBuzz.deps.json
+E:\OneDrive\Documentos\Cursos\dotnet\CSharpandDotnet7\Ch03\Ch03Ex03FizzBuzz\bin\Debug\net7.0\Ch03Ex03FizzBuzz.runtimeconfig.json
+E:\OneDrive\Documentos\Cursos\dotnet\CSharpandDotnet7\Ch03\Ch03Ex03FizzBuzz\bin\Debug\net7.0\Ch03Ex03FizzBuzz.dll
+E:\OneDrive\Documentos\Cursos\dotnet\CSharpandDotnet7\Ch03\Ch03Ex03FizzBuzz\bin\Debug\net7.0\Ch03Ex03FizzBuzz.pdb
+E:\OneDrive\Documentos\Cursos\dotnet\CSharpandDotnet7\Ch03\Ch03Ex03FizzBuzz\obj\Debug\net7.0\Ch03Ex03FizzBuzz.csproj.AssemblyReference.cache
+E:\OneDrive\Documentos\Cursos\dotnet\CSharpandDotnet7\Ch03\Ch03Ex03FizzBuzz\obj\Debug\net7.0\Ch03Ex03FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+E:\OneDrive\Documentos\Cursos\dotnet\CSharpandDotnet7\Ch03\Ch03Ex03FizzBuzz\obj\Debug\net7.0\Ch03Ex03FizzBuzz.AssemblyInfoInputs.cache
+E:\OneDrive\Documentos\Cursos\dotnet\CSharpandDotnet7\Ch03\Ch03Ex03FizzBuzz\obj\Debug\net7.0\Ch03Ex03FizzBuzz.AssemblyInfo.cs
+E:\OneDrive\Documentos\Cursos\dotnet\CSharpandDotnet7\Ch03\Ch03Ex03FizzBuzz\obj\Debug\net7.0\Ch03Ex03FizzBuzz.csproj.CoreCompileInputs.cache
+E:\OneDrive\Documentos\Cursos\dotnet\CSharpandDotnet7\Ch03\Ch03Ex03FizzBuzz\obj\Debug\net7.0\Ch03Ex03FizzBuzz.dll
+E:\OneDrive\Documentos\Cursos\dotnet\CSharpandDotnet7\Ch03\Ch03Ex03FizzBuzz\obj\Debug\net7.0\refint\Ch03Ex03FizzBuzz.dll
+E:\OneDrive\Documentos\Cursos\dotnet\CSharpandDotnet7\Ch03\Ch03Ex03FizzBuzz\obj\Debug\net7.0\Ch03Ex03FizzBuzz.pdb
+E:\OneDrive\Documentos\Cursos\dotnet\CSharpandDotnet7\Ch03\Ch03Ex03FizzBuzz\obj\Debug\net7.0\Ch03Ex03FizzBuzz.genruntimeconfig.cache
+E:\OneDrive\Documentos\Cursos\dotnet\CSharpandDotnet7\Ch03\Ch03Ex03FizzBuzz\obj\Debug\net7.0\ref\Ch03Ex03FizzBuzz.dll
